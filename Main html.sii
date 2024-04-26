@@ -22,7 +22,6 @@
 <p>
    password
 
-
 </p>
   <input name="" value ="password " />
 
@@ -30,8 +29,6 @@
    color blue
 </style>
 <button/> 
-
-
 
 
 
